@@ -20,7 +20,7 @@ This is not to say, that you cannot host a large number of participants
 <center>
 
 [![Launch CloudFormation Stack](https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png
-)](https://console.aws.amazon.com/cloudformation/home#/stacks/new?stackName=jitsi-meet-video-conference&templateURL=https://cf-templates-1pndz72m6jnrt-eu-west-2.s3.eu-west-2.amazonaws.com/jitsi-server.cfn.yaml)
+)](https://console.aws.amazon.com/cloudformation/home#/stacks/new?stackName=jitsi-meet-video-conference&templateURL=https://javaspinversioning.s3.amazonaws.com/jitsi-template/jitsi-server.cfn.yaml)
 
 </center>
 
