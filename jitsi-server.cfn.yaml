@@ -225,6 +225,7 @@ Parameters:
     AllowedValues:
     - Micro.t3.micro
     - Small.t3.small
+    - Medium.t2.medium
     - Medium.t3.medium
     - Large.m5.large
     - XtraLarge.m5.xlarge
