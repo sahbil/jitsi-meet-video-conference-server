@@ -237,6 +237,8 @@ Mappings:
       InstanceType: t3.micro
     Small.t3.small:
       InstanceType: t3.small
+    Medium.t2.medium:
+      InstanceType: t2.medium
     Medium.t3.medium:
       InstanceType: t3.medium
     Large.m5.large:
